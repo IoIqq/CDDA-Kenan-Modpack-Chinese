@@ -2649,7 +2649,7 @@
  {
   "key": "dea680ca193f1e404c4be7c1b8be4926",
   "original": "Before the Cataclysm, you were a member of a local community of like-minded survivalists, occasionally meeting to contribute to preparing and stocking safehouses.  Now that the world's ended, you might be able to count on any of your friends out there, if they're still alive.",
-  "translation": "在大灾变之前，你是当地一个志同道合的生存主义者团体的成员，偶尔会面以共同为安全屋的准备和储备物资作出贡献。如今世界已经终结，如果你的朋友们还活着，你或许能指望上他们中的任何一个。",
+  "translation": "在大灾变之前，你是当地一个志同道合的生存主义者团体的成员，偶尔会面以共同筹备和储备安全屋。如今世界末日降临，如果你的朋友们还活着，你或许能指望上他们中的任何一个。",
   "context": "ID: PROF_PREPPER_HOLDOUT\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Mutations/c_bio_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→mutation→PROF_PREPPER_HOLDOUT\n",
   "stage": 0
  },
@@ -3705,7 +3705,7 @@
  {
   "key": "d172b792d1df24cfab7d71a65cab33d5",
   "original": "Holy shit girl, you're still alive?!  I'm glad, I thought I was going to have to deal with all this alone.  We've got shelter and supplies at least.  Whenever you want to head out, I'll follow your lead.",
-  "translation": "哇塞，姑娘，你还活着！？太好了，我还以为得一个人对付这一切了。至少我们有避难所和补给。只要你准备出门，我跟着你走。\n\n翻译（优化版）：\n天哪，姑娘，你还活着吗？！真是太好了，我还担心得独自面对这一切。至少我们这里有避难所和必需品。无论何时你想出发，我随你行动。",
+  "translation": "我的天，姑娘，你还活着？！太好了，我还以为得独自应对这一切了。至少我们有避难所和补给。只要你准备出发，我跟着你走。\n\n翻译（优化版）：\n哇塞，姑娘，你居然还活着！真是太好了，我还担心得独自面对这一切。幸好我们有藏身之地和必需品。只要你打算出发，我随时听你指挥。",
   "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
   "stage": 0
  },
@@ -3718,7 +3718,7 @@
  {
   "key": "de83ef78ad69a0bf5d5705e1e3dfd15e",
   "original": "Holy shit man, you're still alive?!  I'm glad, I thought I was going to have to deal with all this alone.  We've got shelter and supplies at least.  Whenever you want to head out, I'll follow your lead.",
-  "translation": "老天，伙计，你还活着？！太好了，我还以为得一个人应付这一切。至少我们有避难所和补给。只要你准备出门，我就跟着你走。",
+  "translation": "老天，伙计，你还活着？！太好了，我还以为得一个人应付这一切呢。至少我们有避难所和补给。只要你准备出门，我就跟着你走。",
   "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
   "stage": 0
  },
@@ -8765,7 +8765,7 @@
  {
   "key": "ec089efa326ce45004dd3d81924a68bc",
   "original": "You knew something was coming, so you made connections with like-minded survivors beforehand to establish safe refuge.  You've made your plans, now it's time to put them into action.",
-  "translation": "你预感到危机即将来临，因此事先与其他志同道合的幸存者建立了联系，共同为安全避难所打下基础。计划已定，现在是将其付诸实施的时刻。",
+  "translation": "你预感到事情即将发生，因此提前与其他志同道合的幸存者建立了联系，共同设立了安全避难所。计划已就绪，现在是时候将它们付诸实践了。",
   "context": "ID: prep_house\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→prep_house\n",
   "stage": 0
  },

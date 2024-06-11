@@ -741,7 +741,7 @@
   "original": "\"May the stars guide this missive to you swiftly, brother.  The path is clear, but you are correct in that we have greater things to worry about.  The puppets of Rome are aware of our existence.  We cannot be certain what allies they may still be able to send against us.\"",
   "translation": "“愿星辰把这封信迅速指引给你，兄弟。道路很明确，但你是对的，我们有更重要的事情要担心。罗马的傀儡们发现了我们的存在。我们无法确定他们还能派什么同伙来对付我们。”",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Arcana/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→snippet→[14]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d332fd00ba401f83190400ea3a10cad2",
@@ -1042,7 +1042,7 @@
  {
   "key": "9b824b81d60aec649705c2c40764df8f",
   "original": "\"Sometimes when following The Path to Power, the road narrows.  No longer can you walk side by side with your kindred.  If you rush ahead, you risk being stabbed in the back.  If you allow the others forward, they may leave you behind before the road widens once again.  Ask yourself, can you trust those you walk beside, or should you push them off the Path?\"",
-  "translation": "“有时候，在走上权力之路时，道路会变窄。你再也不能和你的亲人并肩而行了。如果你冲在前面，你就有被背后捅伤的危险。如果你允许其他人向前走，他们可能会在道路再次变宽之前把你甩在后面。扪心自问，你能相信你身边的人吗，还是应该把他们推离正轨？”",
+  "translation": "“有时候，在走上权力之路时，道路会变拥挤。你再也不能和你的亲人并肩而行了。如果你冲在前面，你就有被背后捅刀子的危险。如果你允许其他人先走，他们可能会在道路再次变宽敞之前把你甩在后面。扪心自问，你能相信你身边的人吗，还是应该把他们推离这条道路？”",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Arcana/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→snippet→[8]\n",
   "stage": 3
  },
@@ -2373,13 +2373,13 @@
  {
   "key": "24fd9d42f50b2f780ef3a1503dcc0068",
   "original": "A book describing several otherworldly creatures and their origins, or at least conjecture on those origins.  Stranger still, it describes experiments in summoning and  ...controlling them?\n\"In the absence of an adequate catalyst, those who dwell Beyond are not easily called into service.  What slips through the cracks most readily is a mere shadow, a reflection of shadows even, given form that can be tamed...\"",
-  "translation": "一本描述了几种异界生物及其起源的书，或者至少是对这些起源的推测。更奇怪的是，它描述了召唤和……操控它们的实验？\n“在没有足够催化剂的情况下，那些域外生物不容易被征召奴役，最容易穿过裂缝的只是一个投影，甚至是投影的分身，以一种容易被驯服的形式...”",
-  "stage": 5
+  "translation": "一本描述了几种异界生物及其起源的书，或者至少是对这些起源的推测。更奇怪的是，它描述了召唤和……操控它们的实验？\n\"在缺乏充分的条件下，那些居住在彼岸的存在不容易被召唤到现世中来。最容易溜出缝隙的只是一道投影，甚至只是投影的反射，被赋予了可以被驯服的形态…\"",
+  "stage": 3
  },
  {
   "key": "c968daafa3df786136ae9f5069a717bd",
   "original": "A book describing several otherworldly creatures and their origins, or at least conjecture on those origins.  Stranger still, it describes experiments in summoning and  …controlling them?\n\"In the absence of an adequate catalyst, those who dwell Beyond are not easily called into service.  What slips through the cracks most readily is a mere shadow, a reflection of shadows even, given form that can be tamed…\"",
-  "translation": "一本描述几种异世界生物及其起源，或至少对这些起源的推测的书籍。更奇怪的是，它描述了召唤和控制它们的实验？\n\"在缺乏充分的条件下，居住在彼端的人难以被召唤出来。最容易溜出缝隙的是一道影子，甚至只是影子的反射，被赋予了可以被驯服的形态…\"",
+  "translation": "一本描述了几种异界生物及其起源的书，或者至少是对这些起源的推测。更奇怪的是，它描述了召唤和……操控它们的实验？\n\"在缺乏充分的条件下，那些居住在彼岸的存在不容易被召唤到现世中来。最容易溜出缝隙的只是一道投影，甚至只是投影的反射，被赋予了可以被驯服的形态…\"",
   "context": "ID: book_summoning\n位于 /Kenan-Structured-Modpack/Arcana/items/books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→BOOK→book_summoning\n",
   "stage": 3
  },
@@ -4425,9 +4425,9 @@
  {
   "key": "4cfb34a894c55f4e3d7d3211916c73cd",
   "original": "A strange aura of malice seems to briefly surround %1$s.",
-  "translation": "一种奇怪的恶意气氛似乎短暂地围绕着%1$s。",
+  "translation": "一种奇怪的恶意气息似乎短暂地围绕着%1$s。",
   "context": "ID: armor_wyrm_berserker\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→armor_wyrm_berserker\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c725c36eb96c598d7809c5caa8d2d705",
@@ -6359,9 +6359,9 @@
  {
   "key": "ebc9b1d3a201253fcf3185ef535e3276",
   "original": "And highly powerful side effect if an enemy is selected.",
-  "translation": "对敌方目标而言，其附带的强力副作用不容小觑。",
+  "translation": "对于选中的敌人，将产生非常强大的效果。",
   "context": "ID: arcana_item_ritual_blade_cleaving\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_ritual_blade_cleaving\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a61c8270b92f98ad3bf2e6063108edd9",
@@ -7882,7 +7882,7 @@
   "original": "Bring Back Relay Beacon",
   "translation": "带回中继信标",
   "context": "ID: MISSION_CF_REP_7\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_REP_7\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "818389ae8e54f38904f1e2a786be5f68",
@@ -8856,7 +8856,7 @@
   "original": "Did you find what you're looking for?",
   "translation": "你找到你要找的东西了吗？",
   "context": "ID: MISSION_CF_PURIFIER_1_INTERLUDE_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_PURIFIER_1_INTERLUDE_1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5d955b0d9753164179a45a1b6c71d78c",
@@ -12315,9 +12315,9 @@
  {
   "key": "a96bca7c6fa0ff8964572dd51e952475",
   "original": "I can hand over a copy of To Master The Unknown.",
-  "translation": "我可以把一本交给《未知之主》。",
+  "translation": "我可以给你一本《掌握未知》。",
   "context": "ID: TALK_MERCHANT_CF_AUX_BOUNTY_BOOKS\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MERCHANT_CF_AUX.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MERCHANT_CF_AUX_BOUNTY_BOOKS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4f81a871cfdcfc81fa2049d910f7ba59",
@@ -13724,7 +13724,7 @@
  {
   "key": "55bb811cb23817ea1c2b475d520372bf",
   "original": "I would appreciate such a gesture.  The common tools of the trade are dangerous, but I would recommend seeing Sofia about exchanging such items.  What I will accept, if you'll allow it, would be copies of the common summoner's tome.  To Master The Unknown.  If you have a copy of it to surrender, I will compensate you as best as I can.",
-  "translation": "我会感激这样的举动。行会的通用工具虽然危险，但我建议你去索菲亚那里交换这些东西。如果你同意的话，我愿意收下《普通召唤师》的副本。掌握未知。如果你有一本副本来交换的话，我会给你我所能给予的最大代价。",
+  "translation": "我会感激这样的举动。交易商会的通用工具虽然危险，但我建议你去索菲亚那里交换这些东西。如果你同意的话，我愿意收下这本《普通召唤师之书》。《掌握未知》，如果你有一本能来交换的话，我会给你我所能给予的最大报酬。",
   "context": "ID: TALK_MAGE_HUNTER_OTHERWORLDLY_CONTRABAND\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MAGE_HUNTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MAGE_HUNTER_OTHERWORLDLY_CONTRABAND\n",
   "stage": 3
  },
@@ -14849,7 +14849,7 @@
  {
   "key": "929cfc055f4308f84fe08b632f830fb0",
   "original": "If you are willing to part with a summoner's tome, so be it.  The summoning glyphs themselves are better handled by someone more experienced like Sofia, but I will repay you for a copy of To Master The Unknown.",
-  "translation": "如果你愿意放弃一本召唤者之书，那就这样吧。召唤术本身最好由像索菲亚这样更有经验的人处理，但我会以《To Master The Unknown掌握未知》的副本报答你。",
+  "translation": "如果你愿意放弃一本《召唤师之书》，那就这样吧。召唤术本身最好由像索菲亚这样更有经验的人处理，但我会以给你一本《掌握未知》来报答你。",
   "context": "ID: TALK_MAGE_HUNTER_OTHERWORLDLY_CONTRABAND\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MAGE_HUNTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MAGE_HUNTER_OTHERWORLDLY_CONTRABAND\n",
   "stage": 3
  },
@@ -16154,16 +16154,16 @@
  {
   "key": "d9cece5acfbfd487af28d0fbc19b94b5",
   "original": "Just a doctor that got called up into providing medical assistance for 'Old Guard' operations.",
-  "translation": "只是一个被召来为“老兵”行动提供医疗援助的医生。",
+  "translation": "只是一个被征来为“旧日守护者”的行动提供医疗援助的医生。",
   "context": "ID: TALK_MERCHANT_CF_AUX_WHO\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MERCHANT_CF_AUX.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MERCHANT_CF_AUX_WHO\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0ccffc52da849c919652ca8e7cc6e29f",
   "original": "Just a local hunter.  Outdoors experience came in handy when it all went to shit, so I guess there's that.",
-  "translation": "只是一个当地的猎人。当一切都变得一团糟的时候，户外生存经验就派上了用场，所以我想是这样的。",
+  "translation": "只是一个当地的猎人。当一切都变得一团糟的时候，户外生存的经验就派上了用场，所以我想是这样的。",
   "context": "ID: TALK_MERCHANT_CF_AUX_WHO\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MERCHANT_CF_AUX.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MERCHANT_CF_AUX_WHO\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "788c47e5cb9cd0127814569561d29ea7",
@@ -20348,9 +20348,9 @@
  {
   "key": "8ca50f8620499bfe48e95f2f8415ccd8",
   "original": "Only got a couple on their wishlist, paying out a good sum for each one.  One's called Sanguine Codex, another's Oaths to The Chalice, and then there's To Master The Unknown.  What do ya got?",
-  "translation": "只有一对夫妇在他们的心愿单上，为每一个付了一大笔钱。一个叫《猩红法典》，另一个叫《圣杯誓言》，然后是掌握未知。你有什么发现？",
+  "translation": "他们愿望清单上只有几本书，每本都愿意支付一笔可观的费用。一本是《猩红法典》，另一本是《圣杯誓言》，然后是《掌握未知》。你有什么发现？",
   "context": "ID: TALK_MERCHANT_CF_AUX_BOUNTY_BOOKS\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MERCHANT_CF_AUX.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MERCHANT_CF_AUX_BOUNTY_BOOKS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "89591f62677e6543841102833f193f19",
@@ -24380,7 +24380,7 @@
   "original": "Sounds good to me.  I'll send word out and they should have contacts looking into it soon enough.  Hope this pans out.",
   "translation": "听起来不错。我会放出消息，他们应该很快就会有联系人着手调查此事。希望这能有所收获。",
   "context": "ID: TALK_ROBOFAC_FREE_MERCHANT_CF_REP_MISSION_4_DEAL\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_ROBOFAC_FREE_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_ROBOFAC_FREE_MERCHANT_CF_REP_MISSION_4_DEAL\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d85f819a919ec2fa6e2eef4a88da22f6",
@@ -24471,7 +24471,7 @@
   "original": "Spatial Displacement Wonder",
   "translation": "Spatial Displacement Wonder",
   "context": "ID: arcana_item_spatial_displacement_wonder\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_spatial_displacement_wonder\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "908969056ec296dc3d97bd76e9eadfb1",
@@ -24555,7 +24555,7 @@
   "original": "Spellsurge Cleave",
   "translation": "法潮斩",
   "context": "ID: arcana_item_ritual_blade_cleaving\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_ritual_blade_cleaving\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1ee0e278ef26de63b3bb19abf66dfcd1",
@@ -24767,9 +24767,9 @@
  {
   "key": "36f1df040e860a34225a97d4bedba2e6",
   "original": "Study of the beyond has granted you the power to bring forth wicked omens, gaining a long-lasting adrenaline surge with night vision and life drain, in exchange for permanent scars upon the land.  (( Remember to bind the \"spellcasting\" key! ))",
-  "translation": "对超自然领域的研究赋予了你召唤邪恶意兆的力量，使你能获得持久的肾上腺素激增、夜视能力和生命汲取能力，但代价是在大地上永久留下伤痕。(( 别忘了绑定“施法”键！ ))",
+  "translation": "对彼端的研究赋予了你召唤邪恶意兆的力量，使你能获得持久的肾上腺素激增、夜视能力和生命汲取能力，但代价是在大地上永久留下伤痕。（记得绑定“施法”键！）",
   "context": "ID: SPELL_ECLIPSE\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_magic_signs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→SPELL_ECLIPSE\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7702e98514b80c0fd8857cde53ea9bb1",
@@ -25817,9 +25817,9 @@
  {
   "key": "0be60d8c30b5e4db00cacda61f794d16",
   "original": "Thank you.  This should provide the finishing touches.  I'll get to work immediately, I know the rest of them were already looking for us.  They should be here shortly, now that we have the means to extend our signal as well as a signal they can track.  That should be everything we need for now.",
-  "translation": "非常感谢。这应该是最后的润色。我马上就去工作，我知道其他人已经在找我们了。他们应该很快就到这里，现在我们有办法扩大我们的信号，以及他们可以跟踪的信号。这应该是我们现在需要的一切。",
+  "translation": "非常感谢。这应该是最后的收尾。我马上就去工作，我知道其他人已经在找我们了。他们应该很快就到这里，现在我们有办法扩大我们的信号，以及他们可以跟踪的信号。这应该是我们目前需要的一切了。",
   "context": "ID: MISSION_CF_REP_7\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_REP_7\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9f179351eadbbe7c059bbe983cfeffe5",
@@ -26069,9 +26069,9 @@
  {
   "key": "66387981868ad35f198665d056deea77",
   "original": "That sounds like something we've run afoul of a while back.  One of my supply caravans got ambushed by some creatures unlike what you normally see out there.  I'll send over the reports or whatever it is you're looking for.",
-  "translation": "这听起来像是我们之前遇到过的麻烦。我的一支补给车队曾遭到一些非常见生物的伏击。我会把相关报告或你所需的信息发送过去。",
+  "translation": "这听起来这像我们之前遇到过的情况。我的一个补给车队被一些不常见的怪物袭击了。我会把报告或你需要的东西发送过去。",
   "context": "ID: TALK_ROBOFAC_FREE_MERCHANT_GM_PRELUDE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_ROBOFAC_FREE_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_ROBOFAC_FREE_MERCHANT_GM_PRELUDE\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "fe1fda268141e14f89a748a913efe88e",
@@ -26380,9 +26380,9 @@
  {
   "key": "802a19bf039396cfc3748b37432b4fb6",
   "original": "The air wavers as the maddened wanderer raises its talisman!",
-  "translation": "空气随着狂乱流浪者举起它的符咒而波动！",
+  "translation": "发狂流浪者举起他的护身符，空气随之泛起涟漪！",
   "context": "ID: mon_feral_summoner\n位于 /Kenan-Structured-Modpack/Arcana/monsters/monsters.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→MONSTER→mon_feral_summoner\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "22ba028384e25eb5ec8d2c6a953b50e6",
@@ -26401,9 +26401,9 @@
  {
   "key": "8f2bb63e208e8d31e0d327f1701b7154",
   "original": "The armor's unnatural aura fades.",
-  "translation": "盔甲的非自然光环渐渐消散。",
+  "translation": "护甲的非自然光环渐渐消散。",
   "context": "ID: armor_wyrm_berserker_on\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→armor_wyrm_berserker_on\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1f2fe9fc18011630a4aeadbc42a282d2",
@@ -27129,9 +27129,9 @@
  {
   "key": "46a6f97cc74a2e61ce5d8b0cad4eebee",
   "original": "The plates of your armor shift and contort into an even more bestial form, a strange sense of power flowing through you!",
-  "translation": "你的盔甲板块扭曲变形，化为更加野兽般的形态，一股奇异的力量在你体内涌动！",
+  "translation": "你的盔甲上的装甲板扭曲变形，化为更加野兽般的形态，一股奇异的力量在你体内涌动！",
   "context": "ID: armor_wyrm_berserker\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→armor_wyrm_berserker\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "8c2a40ffb645e10e3fa19f1fff8d461c",
@@ -27214,7 +27214,7 @@
   "original": "The root wall decays and crumbles.",
   "translation": "根墙腐朽，碎裂不堪。",
   "context": "ID: arcana_earthweaving\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/ter_furn_transform.json\n类型为 ter_furn_transform\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→ter_furn_transform→arcana_earthweaving\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d8857a369df2cd98cab7c629b6bea8a3",
@@ -27268,9 +27268,9 @@
  {
   "key": "336236c7ebd5875ca1011b0e6b0cf0e5",
   "original": "The staff's influence lingers in your mind while you wield it, allowing you to better tolerate violence and the harvesting of flesh.",
-  "translation": "当你挥舞这根棍棒时，其力量在你脑海中徘徊，使你更能忍受暴力与剥取血肉的行为。",
+  "translation": "当你手持这根棒子时，其力量在你脑海中徘徊，使你更能忍受暴力与屠宰血肉的行为。",
   "context": "ID: ARCANA_STAFF_EFFECT\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_other.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→ARCANA_STAFF_EFFECT\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b55f0f7a1e0f4c242934c576a22ba1b0",
@@ -29579,9 +29579,9 @@
  {
   "key": "a8f9f6d8c8c272c3bd4965c4762aa5ec",
   "original": "This pushes your attackers away.",
-  "translation": "这会将你的攻击者推开。",
+  "translation": "这会将攻击者推开。",
   "context": "ID: arcana_react_phase_shield\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_react.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_react_phase_shield\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "326826a3dffecb6144dc03bacac03181",
@@ -29600,9 +29600,9 @@
  {
   "key": "81d7a8b220521839d1dece1ea5e7e386",
   "original": "This secret has been passed down among a few of the more learned ascetics of my order.  It shrouds your aura against monsters from Beyond, blinding them to your presence.  It doesn't hide you from the undead I've found, earthly life in general seems to spot you more easily under its effect, but it has its uses.  If you bring me 1 crystallized essence, I can imprint this knowledge upon you.",
-  "translation": "这个秘密在我教派中少数学识渊博的苦行者之间代代相传。它能遮蔽你的气场，让来自彼岸的怪物无法察觉你的存在，对你视而不见。不过，我发现它并不能隐藏你于亡灵之中，总的来说，在其影响下，世俗生物似乎能更容易地发现你，但这项技能仍有其用途。如果你能给我1份结晶化精髓，我就能将这门知识传授于你。",
+  "translation": "这个秘法在我教派中少数学识渊博的苦行者之间代代相传。它能遮蔽你的气场，让来自彼端的怪物无法察觉你的存在，对你视而不见。不过，我发现它并不能隐藏你于丧尸之中，总的来说，在其影响下，普通生物似乎能更容易地发现你，但这项技能仍有其用途。如果你能给我1个璀璨源质，我就将这门知识传授于你。",
   "context": "ID: TALK_HERMIT_SPELL_MENU_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_SPELL_MENU_3\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "8f77db8b01cb4b8cb50b345a83c3f5dc",
@@ -29839,7 +29839,7 @@
  {
   "key": "f8b97ed095295b623b3308db83bd74d8",
   "original": "To Master the Unknown",
-  "translation": "掌握未知",
+  "translation": "《掌握未知》",
   "context": "ID: book_summoning\n位于 /Kenan-Structured-Modpack/Arcana/items/books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→BOOK→book_summoning\n",
   "stage": 3
  },
@@ -29964,9 +29964,9 @@
  {
   "key": "5965703d9f4f5833a08a8bee7c0a977a",
   "original": "Trap: Air Canister",
-  "translation": "陷阱：空气罐",
+  "translation": "陷阱：气元素罐",
   "context": "ID: arcana_trap_canister_air\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_canister_air\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f96714a78f294301adc9513bff0eed53",
@@ -29978,9 +29978,9 @@
  {
   "key": "2814d3d249e4e34c455093ba56f55935",
   "original": "Trap: Earth Canister",
-  "translation": "陷阱：土罐",
+  "translation": "陷阱：土元素罐",
   "context": "ID: arcana_trap_canister_earth\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_canister_earth\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "76fb2fbde962ff8f60ca0b52b29b739a",
@@ -29992,9 +29992,9 @@
  {
   "key": "b007c0ea5c1585f78c43866e5fe5f8dd",
   "original": "Trap: Flame Canister",
-  "translation": "陷阱：火焰罐",
+  "translation": "陷阱：火元素罐",
   "context": "ID: arcana_trap_canister_flame\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_canister_flame\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "bd7e2c09a5bb13aad69c7c6de7db3412",
@@ -30103,9 +30103,9 @@
  {
   "key": "20fa28260032ac931b6e35d0bdcfc004",
   "original": "Trap: Water Canister",
-  "translation": "陷阱：水罐",
+  "translation": "陷阱：水元素罐",
   "context": "ID: arcana_trap_canister_water\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_canister_water\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "5e0c19848b47f4356bfabe3ed2405efb",
@@ -35348,7 +35348,7 @@
   "original": "Your blade flickers and sunders through %s",
   "translation": "你的刀锋闪烁，斩裂而过，贯穿了%s",
   "context": "ID: tec_veil_chosen_dimension_cutter\n位于 /Kenan-Structured-Modpack/Arcana/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→technique→tec_veil_chosen_dimension_cutter\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4b3d261a0faf8cfe97e7391cbe8fceb9",
@@ -35521,7 +35521,7 @@
   "original": "Your impact blasts %s back",
   "translation": "你的冲击波将 %s 逼退。",
   "context": "ID: tec_weapon_kinetic_knockback\n位于 /Kenan-Structured-Modpack/Arcana/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→technique→tec_weapon_kinetic_knockback\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e3562e632a0475a0c68ac465b760e55b",
@@ -35539,9 +35539,9 @@
  {
   "key": "f2e5601570f815aa4337fa9a4925ea5c",
   "original": "Your kinetic resonates with a blinding flash and thunderous sound!",
-  "translation": "你的动能共鸣发出炫目闪光和震耳欲聋的雷鸣！",
+  "translation": "你的攻势共鸣发出炫目闪光和震耳欲聋的雷鸣！",
   "context": "ID: bio_kinetic_amplifier_weapon\n位于 /Kenan-Structured-Modpack/Arcana/items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→GENERIC→bio_kinetic_amplifier_weapon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "0a2bcb50f345c5aae46a5876496d3653",
@@ -36947,7 +36947,7 @@
  {
   "key": "0eca51d2fed3206e85f5ba63904e6431",
   "original": "copies of Oaths to the Chalice",
-  "translation": "圣杯誓言",
+  "translation": "《圣杯誓言》",
   "context": "ID: book_sacrifice\n位于 /Kenan-Structured-Modpack/Arcana/items/books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→BOOK→book_sacrifice\n",
   "stage": 3
  },
@@ -36989,7 +36989,7 @@
  {
   "key": "a7b2da199a56c876771797462146a14b",
   "original": "copies of To Master the Unknown",
-  "translation": "掌握未知",
+  "translation": "《掌握未知》",
   "context": "ID: book_summoning\n位于 /Kenan-Structured-Modpack/Arcana/items/books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→BOOK→book_summoning\n",
   "stage": 3
  },

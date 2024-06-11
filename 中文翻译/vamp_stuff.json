@@ -2527,9 +2527,9 @@
  {
   "key": "d69017000f2c4d2dc07092a5af15bbbe",
   "original": "Exerxium",
-  "translation": "练习",
+  "translation": "咒炎",
   "context": "ID: t1_elem_exerxium\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T1.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_elem_exerxium\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a1a698ed9bd0897ab0578ac2114397ff",
@@ -2695,7 +2695,7 @@
   "original": "Frost",
   "translation": "霜冻",
   "context": "ID: t1_elem_frost\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T1.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_elem_frost\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "68abcc3d0869f8a52c2b286b3c511dd3",

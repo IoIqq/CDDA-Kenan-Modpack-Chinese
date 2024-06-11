@@ -4821,7 +4821,7 @@
  {
   "key": "e23734af2ae583cbec34c85ea4c6eb07",
   "original": "cloud katana",
-  "translation": "云之武士刀",
+  "translation": "云武士刀",
   "context": "ID: kr_cloud_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_cloud_katana\n",
   "stage": 0
  },
@@ -5073,7 +5073,7 @@
  {
   "key": "1f91238b3e2d5218c803644f3c9bbe35",
   "original": "lab security batons",
-  "translation": "实验室安保棍",
+  "translation": "实验室安保棍棒",
   "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
   "stage": 0
  },

@@ -1121,14 +1121,14 @@
   "original": "A \"small\" Prionosuchus.  It will grow, and keep growing",
   "translation": "一只“小”锯齿螈. 它还会长大的，越长越大",
   "context": "ID: mon_prionosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_prionosuchus_baby\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4d9de9f67218c9b124c6ee3c70601566",
   "original": "A \"small\" Smilosuchus, the size of a big dog.  Like the adult version, this doesn't actually make you smile.",
-  "translation": "一只“小”凿齿鳄，大小和一些大型犬差不多，和成年的那些一样会撕碎你的笑容",
+  "translation": "一只“小”凿齿鳄，大小和一些大型犬差不多。跟成年了的一样，会让你笑不出来。",
   "context": "ID: mon_smilosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_smilosuchus_baby\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cc5d9539d25287a2f914faab3d3a46dc",
@@ -1168,14 +1168,14 @@
  {
   "key": "f1aea95c294eb1af7005166375776f94",
   "original": "A Carnufex egg.",
-  "translation": "一个屠戮鳄蛋",
+  "translation": "一颗屠戮鳄卵",
   "context": "ID: egg_carnufex\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_carnufex\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "f3d1886f4f463cebc920564f9824a6e6",
   "original": "A Cotylorhynchus egg.",
-  "translation": "一颗杯鼻龙蛋。",
+  "translation": "一颗杯鼻龙蛋",
   "context": "ID: egg_cotylorhynchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_cotylorhynchus\n",
   "stage": 3
  },
@@ -1184,7 +1184,7 @@
   "original": "A Dimetrodon egg.",
   "translation": "一颗异齿龙蛋",
   "context": "ID: egg_dimetrodon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_dimetrodon\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d76577a2c6e2730235cb19a9e78315ab",
@@ -1209,7 +1209,7 @@
  {
   "key": "666dca92e760876d67707f5b291736dd",
   "original": "A Hesperosuchus egg.",
-  "translation": "一个黄昏鳄的蛋",
+  "translation": "一颗黄昏鳄卵",
   "context": "ID: egg_hesperosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_hesperosuchus\n",
   "stage": 3
  },
@@ -1230,58 +1230,58 @@
  {
   "key": "6e959109a31155b913934f757a012cde",
   "original": "A Lystrosaurus egg.",
-  "translation": "一个水龙兽的蛋",
+  "translation": "一颗水龙兽蛋",
   "context": "ID: egg_lystrosaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_lystrosaurus\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ee1b03172afe9a1c1cc9280dba3bc82e",
   "original": "A Moschorhinus's egg.",
-  "translation": "一个麝喙兽的蛋",
+  "translation": "一颗麝喙兽蛋",
   "context": "ID: egg_nochnitsa\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_nochnitsa\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e7f573a8c8027488d60c3af551769c2f",
   "original": "A Nochnitsa puppy.  Rat-sized, but not rat-looking.",
-  "translation": "一只诺奇塔幼崽。体型如鼠，但外观非鼠。",
+  "translation": "一只夜妖丽齿兽幼崽。像老鼠一样大，但看起来不像老鼠。",
   "context": "ID: mon_nochnitsa_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_nochnitsa_pup\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b310ac08a6cc0c422564f5ae1bc38285",
   "original": "A Pederpes spawn.  Looks like a giant walking tadpole.",
-  "translation": "一只潘德跋斯幼体。看起来像一只巨大的会走路的蝌蚪。",
+  "translation": "一只彼得足螈幼崽。看起来像一只巨型的行走蝌蚪。",
   "context": "ID: mon_pederpes_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pederpes_baby\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3faef4f86b60560f027db0188b031fc0",
   "original": "A Pristerognathus puppy.  Very cute, if you find dogs cute.  Otherwise is just cute.",
-  "translation": "一只普里斯托戈纳索斯幼犬。如果你觉得狗可爱的话，它非常可爱。否则，它也就是可爱而已。",
+  "translation": "一只锯颌兽幼崽。非常可爱，如果你觉得狗可爱的话。不过，也只是可爱而已。",
   "context": "ID: mon_pristerognathus_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pristerognathus_pup\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "45c805dfb58765b0b6f4730f16efe988",
   "original": "A Pristerognathus's egg.",
-  "translation": "一个锯颌兽的蛋",
+  "translation": "一颗锯颌兽蛋",
   "context": "ID: egg_pristerognathus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_pristerognathus\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0bbcbf996ef3a239032653d079faeca4",
   "original": "A Scutosaurus egg.",
-  "translation": "一个盾甲龙的蛋。",
+  "translation": "一颗盾甲龙蛋",
   "context": "ID: egg_scutosaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_scutosaurus\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8db3a58f10fee4b9d75a0704697c52fd",
   "original": "A Smilosuchus egg.",
-  "translation": "A Smilosuchus egg.",
+  "translation": "一颗凿齿鳄蛋",
   "context": "ID: egg_smilosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_smilosuchus\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6ad64c7463c683faa7883891e1d5c211",
@@ -1314,44 +1314,44 @@
  {
   "key": "992845da5ae4f118bd2f95a3dc4a9901",
   "original": "A Viatkogorgon puppy.  Curiously similar to one of those shark-dogs.",
-  "translation": "一只维亚特戈尔冈幼崽。奇怪地与那些鲨鱼犬相似。",
+  "translation": "一只维特克丽齿兽幼崽。奇怪的是，它与那些鲨鱼狗极为相似。",
   "context": "ID: mon_viatkogorgon_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_viatkogorgon_pup\n",
-  "stage": 1
+  "stage": 2
  },
  {
   "key": "9c1d851f191d6448f8f4a2a9e4fdfdbd",
   "original": "A Viatkogorgon's egg.",
-  "translation": "瓦亚特科戈龙的蛋。",
+  "translation": "一颗维特克丽齿兽蛋",
   "context": "ID: egg_viatkogorgon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_viatkogorgon\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "27b3109d576336bceda0c1c23c6cc680",
   "original": "A Weigeltisaurus egg.",
-  "translation": "一个韦格替蜥的蛋。",
+  "translation": "一颗韦格替蜥蛋",
   "context": "ID: egg_weigeltisaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_weigeltisaurus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ddf96224b5c09617ad360307b67c1fdd",
   "original": "A baby Eryops.  About four times larger than a bull frog, and eight times as hungry.",
-  "translation": "一只幼年Eryops，体型大约是牛蛙的四倍，而食量则是牛蛙的八倍。",
+  "translation": "一只幼年引螈，体型大约是牛蛙的四倍，而食量则是牛蛙的八倍。",
   "context": "ID: mon_eryops_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_eryops_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4e451f68327972fab2ff80c7e8433320",
   "original": "A baby Platyoposaurus.  Likes the taste of fish and ankles.",
-  "translation": "幼年锯齿龙。喜欢鱼和脚踝的味道。",
+  "translation": "一只幼年平面螈。喜欢鱼和脚丫子的味道。",
   "context": "ID: mon_platyoposaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_platyoposaurus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4da529e0987f06ed262f169598679ce4",
   "original": "A baby Scutosaurus.  Could probably lift you.",
-  "translation": "一只幼年的盾甲龙。可能能把你举起来。",
+  "translation": "一只幼年盾甲龙。也许能把你顶上天。",
   "context": "ID: mon_scutosaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_scutosaurus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "40db76d756023f68e149d9f16fb055d6",
@@ -1433,9 +1433,9 @@
  {
   "key": "07d9c6fa4cb55360ce9db5f544a05c16",
   "original": "A big, muscular looking reptile.  The head features a bunch of horns, growing from the cheeks and pointing forwards.  The body is also covered, by smaller protective scales.  The upright posture is supported by the stout limbs, in contrast with the short tail, almost stub-like.",
-  "translation": "一种看起来肌肉发达的大型爬行动物，头部有一堆从脸颊两侧长出的角，指向前方，身体被较小的硬鳞保护着，直立时由粗壮的四肢支撑，与他本就短小的尾巴相比，四肢就像树桩一样",
+  "translation": "一种看起来肌肉发达的大型爬行动物，头部有一堆从脸颊两侧长出的角，指向前方，身体被较小的硬鳞保护着，直立时由粗壮的四肢支撑，与他本就短小的尾巴相比，四肢就像树桩一样。",
   "context": "ID: mon_scutosaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_scutosaurus\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f2ecafd10ae665e69e124c613e1893b2",
@@ -1495,9 +1495,9 @@
  {
   "key": "f43204393f5bc6327a53db9ed04757aa",
   "original": "A bunch of Eurypterid's egg.",
-  "translation": "一串广翅鲎的蛋。",
+  "translation": "一串广翅鲎卵",
   "context": "ID: egg_eurypterid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_eurypterid\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "97499ffe38ed1211ae6a2e8be63ebfd3",
@@ -1537,65 +1537,65 @@
  {
   "key": "dcc2a5f4ab260409a8e293000dae2cb0",
   "original": "A clump of Aegirocassis' eggs.",
-  "translation": "一群埃吉罗卡西斯的卵。",
+  "translation": "一窝海神盔虾卵",
   "context": "ID: egg_aegirocassis\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_aegirocassis\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "79fd76a951f163ffa47c2ec2f0cd19df",
   "original": "A clump of Anomalocaris' eggs.",
-  "translation": "一群 anomalocaris 的蛋。",
+  "translation": "一窝奇虾卵",
   "context": "ID: egg_anomalocaris\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_anomalocaris\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d724a268b2605e5c3f8fef18882e496f",
   "original": "A clump of Arthropleura's eggs.",
-  "translation": "一群arthropleura的卵。",
+  "translation": "一窝节胸蜈蚣卵",
   "context": "ID: egg_arthropleura\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_arthropleura\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "02036f6b5d642c955896b3b6a352c157",
   "original": "A clump of Eryops' eggs.",
-  "translation": "一堆艾里欧普斯的蛋。",
+  "translation": "一窝引螈卵",
   "context": "ID: egg_eryops\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_eryops\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e5bf6cb6caebfe27ea60259473b75e25",
   "original": "A clump of Eurypterid's eggs.",
-  "translation": "一窝欧律珀特斯的卵。",
+  "translation": "一窝广翅鲎卵",
   "context": "ID: egg_eurypterid_small\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_eurypterid_small\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "2c88016dcc5a9c3220be13965b116b9b",
   "original": "A clump of Meganeura's eggs.",
-  "translation": "一团巨脉蜻蜓的卵。",
+  "translation": "一窝巨脉蜻蜓卵",
   "context": "ID: egg_meganeura\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_meganeura\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e79ce61dc03cf0a14eb0726443d5319f",
   "original": "A clump of Pederpes eggs.",
-  "translation": "一堆潘德佩斯的蛋。",
+  "translation": "一窝彼得足螈卵",
   "context": "ID: egg_pederpes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_pederpes\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3db832fd186e7df22ff01e99ff13a691",
   "original": "A clump of Platyoposaurus eggs.",
-  "translation": "一窝扁洲龙蛋",
+  "translation": "一窝平面螈卵",
   "context": "ID: egg_platyoposaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_platyoposaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b09e4c85627e8ea49f8a76748595fe6c",
   "original": "A clump of Prionosuchus eggs.",
-  "translation": "一群普里奥鳄的蛋。",
+  "translation": "一窝锯齿螈卵",
   "context": "ID: egg_prionosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_prionosuchus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d6e989059b543b199de1eeac341270f5",
@@ -1796,16 +1796,16 @@
  {
   "key": "386de9a5980a1da4c4c69efcc2a26f43",
   "original": "A crocodile-looking animal, around twice larger than an alligator.  The snout has a bump in front of the eyes, revealing the position of the nostrils, and the curious shape of the bite features a bunch of oversized front teeth to hold the doomed prey.  The base of the tail looks somewhat fat, adapted to serve as a giant paddle to impulse the animal through water, hopefully not towards yourself.",
-  "translation": "一种形似鳄鱼的生物，体型约莫为短吻鳄的两倍大。其吻部在眼睛前方有一个隆起，暴露出鼻孔的位置，而其咬合方式的奇特之处在于，拥有一排格外硕大的前牙，用以牢牢固定住注定要成为猎物的目标。尾巴的基部显得有些肥厚，已经适应性地演化成巨大的桨状，以便在水中推进动物前进，但愿不是向你所在的方向。",
+  "translation": "一种只似鳄鱼的动物，体型约为短吻鳄的两倍大。吻部在眼睛前方有一个隆起，显示了鼻孔的位置，而其独特的咬合构造具有一排超大的门牙，用来咬死注定要成为猎物的目标。尾巴的基部显得有些肥厚，已经适应性地演化成巨大的桨状，以便在水中推着动物前进，但愿不是向你所在的方向。",
   "context": "ID: mon_smilosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_smilosuchus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "bb472cfde047dab7ca3bfe77b3c9540d",
   "original": "A crocoduck!",
-  "translation": "鳄鸭！",
+  "translation": "一只鳄鸭！",
   "context": "ID: mon_anatosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_anatosuchus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "220b29f4f8d66fc7d4452c6d41c74945",
@@ -1845,44 +1845,44 @@
  {
   "key": "49cce792fc31c3011ec81d0158ed131c",
   "original": "A dodo's egg.",
-  "translation": "一个渡渡鸟的蛋",
+  "translation": "一颗渡渡鸟蛋",
   "context": "ID: egg_dodo\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_dodo\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "27d2f1dd11b0ceaab85f15482a91b7e8",
   "original": "A dog-looking… beast, this animal appears to be a mix between man's best friend, yet smaller than a cat.  The gait is somewhat awkward, but the animal seems fully adapted to it.  The tail is thick and short, the limbs almost sprawling at the sides.  The robust, trapezoidal head features a carnivore smile and a pair of big eyes.",
-  "translation": "一只似犬的…兽类，这种动物看似是人类最好朋友的混种，但体型却比猫还要小。其步态略显笨拙，但显然已完全适应。尾巴粗短，四肢近乎侧展。健壮的梯形头部展现出食肉者的微笑和一对大眼睛。",
+  "translation": "一只像狗的…野兽，这种动物看上去像人类最好朋友——狗的混种，但体型却比猫还要小。它的步态有些笨拙，但这种动物似乎完全适应了这种步态。尾巴粗短，四肢几乎在身体两侧伸展开来。健壮的梯形头部上带着食肉动物的微笑和一双大眼睛。",
   "context": "ID: mon_nochnitsa\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_nochnitsa\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ccc0692ed8617508f3942d893ddbca3a",
   "original": "A dog-looking… beast, this animal looks like a mix between a big cat, a bear, a dinosaur and other animals you can't think at the moment.  The gait is simultaneously awkward yet agile. The tail is thick and short, the limbs are robust, with the hind limbs shorter than the front limbs, each of them ends on paws with short claws, capable of rudimentary grappling.  The huge trapezoidal head displays saber-teeth like fangs. Looking at it forces a primal bubble of fear from the depths of your mind come to the surface, ready to cavitate.",
-  "translation": "一只似犬非犬的野兽，这生物仿佛是大型猫科动物、熊、恐龙以及其他一时难以名状的动物混合体。其步态笨拙而又不失敏捷，尾巴粗短，四肢健壮，后肢较前肢稍短，每肢末端是短爪的爪子，能够进行初级的抓握动作。硕大的梯形头部展示着剑齿般的獠牙。望向它，一股原始的恐惧泡泡自心底涌起，仿佛随时准备炸裂开来。",
+  "translation": "一只像狗的…野兽，这种动物看上去像大型猫科动物、熊、恐龙以及其他一时难以名状的动物混合体。其步态笨拙而又不失敏捷，尾巴粗短，四肢健壮，后肢较前肢稍短，末端是短爪的爪子，能够进行基本的抓握。硕大的梯形头部露出利齿獠牙。看着它，一股本能的恐惧自你的心底涌起，仿佛随时准备爆发。",
   "context": "ID: mon_inostrancevia\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_inostrancevia\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4f64a468c3ac0c5364146709d39aa295",
   "original": "A dog-looking… beast, this animal looks like a mix between man's best friend, a dinosaur and other animals you can't even think of.  The gait is simultaneously awkward yet agile.  The tail is thick and short, each limb ends on paws with short claws.  The robust, relatively big, flat trapezoidal head, features equally big fangs showing well past the lips.  You think, you know deep inside you a bite will really hurt.",
-  "translation": "一只似犬的…兽类，这生物看似融合了人类最好的朋友——狗、恐龙以及你难以想象的其他动物。它的步态既笨拙又敏捷。尾巴粗短，每条腿的末端是长有短爪的爪子。健壮且相对较大的扁平梯形头部，显眼地露出与头部比例相称的长獠牙，直伸出唇外。你内心深处有种直觉，被它咬上一口定会疼痛难忍。",
+  "translation": "一只像狗的…野兽，这只生物看上去像融合了人类最好的朋友——狗，恐龙以及你难以想象的其他动物。它的步态既沉重又敏捷。尾巴粗短，每条腿的末端是长有短爪的爪子。健壮且相对较大的扁平梯形头部，显眼地露出与头部比例相称的长獠牙，直伸出唇外。你内心深处有种直觉，被它咬上一口定会很痛。",
   "context": "ID: mon_pristerognathus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pristerognathus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ddb703adf18894febf6781dbffa2602c",
   "original": "A dog-looking… beast, this animal mimics a mix between man's best friend and a cat-sized saber tooth cat with a thick and short tail.  The gait is almost agile, or better put, almost not awkward.  Each limb ends in small paws with short yet sharp claws.  The very robust, trapezoidal head, features sharp fangs showing well past the lips.  It hunts their prey as if they were toying with it.",
-  "translation": "一种似犬的…兽类，这种动物模仿了人类最好朋友的狗与猫科大小的剑齿虎之间的混合体，尾巴粗短。其步态近乎敏捷，或者更确切地说，几乎不显笨拙。每条腿的末端是长有短而尖锐爪子的小爪子。非常健壮的梯形头部，锋利的獠牙显著地伸出唇外。它捕猎猎物时，仿佛在戏耍一般。",
+  "translation": "一只像狗的…野兽，这种动物看上去像融合了人类最好的朋友——狗与猫大小的剑齿猫，有着粗短的尾巴。它的步态敏捷，或者更准确地说，几乎不显得笨拙。每条腿末端都有小而锋利的爪子。非常结实的梯形头部，特征是锋利的獠牙显著地伸出唇外。它捕猎猎物时，仿佛在戏弄它们。",
   "context": "ID: mon_moschorhinus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_moschorhinus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3336683023b063065676c5de97d833de",
   "original": "A dog-looking… beast, this animal takes after man's best friend, maybe a saber-tooth cat, and perhaps a crocodile.  The gait seem inefficient, almost reptilian.  The tail is thick and short, the limbs end in clawed paws.  The robust, relatively big, trapezoidal head, features a pair of big eyes.",
-  "translation": "一只似犬的…兽类，这种动物形似人类最好的朋友，或许带点剑齿虎的特征，又隐约透露出鳄鱼的影子。其步态显得不够协调，近乎爬行动物般笨拙。尾巴粗短，四肢末端长有利爪。健壮而相对硕大的梯形头部，配有一双大眼睛。",
+  "translation": "一只像狗的…野兽，这种动物形似人类最好的朋友——狗，或许带点剑齿虎的特征，又隐约透露出鳄鱼的影子。其步态显得不够协调，近乎爬行动物般笨拙。尾巴粗短，四肢末端长有利爪。健壮而相对硕大的梯形头部，配有一双大眼睛。",
   "context": "ID: mon_viatkogorgon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_viatkogorgon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "482906c1bc3f24e91a13a521a1a80efe",
@@ -1985,9 +1985,9 @@
  {
   "key": "adf1a21b19ab8987402ad2e95810b373",
   "original": "A flying lizard-looking creature, with two twists.  First, the wings extend from the sides instead of the arms, which leaves the tiny limbs and claws free, and give it a curious appearance mid flight.  Second, it actually doesn't fly, but glides.",
-  "translation": "一种外形似飞龙的生物，具备两大独特之处。首先，它的翅膀从身躯两侧伸出，而非长在前肢上，这让它的小爪和四肢得以自由活动，在飞行时展现出一副惹人好奇的模样。其次，它实际上并不飞翔，而是滑翔于空中。",
+  "translation": "一种外形似飞蜥的生物，有两个不同寻常的特点。首先，它的翅膀不是从手臂伸出，而是从身体两侧展开，这让它的小肢体和爪子自由伸出，在飞行中显得尤为奇特。其次，它实际上并不飞翔，而是滑翔。",
   "context": "ID: mon_weigeltisaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_weigeltisaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a409ddcdb401527ff7e5389a4647c2da",
@@ -2370,9 +2370,9 @@
  {
   "key": "2c152521ec2ea8b573c9fcea2e9d1409",
   "original": "A long tailed amphibian.  Other than it's vaguely lizard-like appearance, this long toad is quite unremarkable.",
-  "translation": "一种长尾两栖动物。除了其略似蜥蜴的外观外，这种长蛙实则并无特别之处。",
+  "translation": "一只长着尾巴的两栖动物。除了它略似蜥蜴的外观，这只大蟾蜍并无特别之处。",
   "context": "ID: mon_pederpes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pederpes\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "966d280ff16a19dd4a3af9cf8cf068ba",
@@ -2398,9 +2398,9 @@
  {
   "key": "e1e86fccf9ab47b8c944280ba775974a",
   "original": "A moa's egg.",
-  "translation": "一个恐鸟蛋。",
+  "translation": "一颗恐鸟蛋",
   "context": "ID: egg_moa\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_moa\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e5e6f7361b274e0c050b7bedea72fc78",
@@ -2475,16 +2475,16 @@
  {
   "key": "2269c92de9e8fc165bdf57fe9a94993e",
   "original": "A puppy Inostrancevia.  As pettable as small your fingers are to its jaws.",
-  "translation": "一只小狗般的INOstrancevia，它的颌骨对你的手指来说就像小型宠物一样可触摸。",
+  "translation": "一只锐齿兽幼崽。它的颌部对于你的手指来说小得可以抚摸。",
   "context": "ID: mon_inostrancevia_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_inostrancevia_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3f301651a69e99ef665ebe9a98e61025",
   "original": "A puppy Moschorhinus.  More cat, less dog, fully carnivore.",
-  "translation": "一只幼年的Moschorhinus，更像猫而非狗，是纯粹的肉食动物。",
+  "translation": "一只麝喙兽幼崽。更像猫而不是狗，是纯粹的肉食动物。",
   "context": "ID: mon_moschorhinus_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_moschorhinus_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "278f697e15c3687512a3cc3b617ab2e7",
@@ -2608,9 +2608,9 @@
  {
   "key": "f1051ef88bf9e639ad29851f77c79cbe",
   "original": "A small Anatosuchus.  Doesn't quack either.",
-  "translation": "一只小安atosuchus。也不会嘎嘎叫。",
+  "translation": "一只小鸭鳄。并不会嘎嘎叫。",
   "context": "ID: mon_anatosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_anatosuchus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "8d7f5812533e872f99863030f632688d",
@@ -2685,9 +2685,9 @@
  {
   "key": "4e6f6aacb92a537419302151ffa06772",
   "original": "A small Hesperosuchus.  Actually looks like a long-legged baby crocodile.",
-  "translation": "一只小型的赫斯珀洛鳄。外表其实更像一条长腿的幼年鳄鱼。",
+  "translation": "一只小黄昏鳄。看起来倒像是一只长腿的幼年鳄鱼。",
   "context": "ID: mon_hesperosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_hesperosuchus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "44ffdab3cbb88ae9d44dd31f4d29c2a6",
@@ -2729,7 +2729,7 @@
   "original": "A small Nessie.",
   "translation": "一只小尼斯湖水怪。",
   "context": "ID: mon_plesiosaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_plesiosaurus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "087b1296f9ed9eb44cb2f28860d42d70",
@@ -2769,9 +2769,9 @@
  {
   "key": "80ccb5cc866a8ecba52ab2bfbaf60858",
   "original": "A small Weigeltisaurus.  The way it flaps around is cute.",
-  "translation": "一只小型的魏格尔提龙。它拍打翅膀的样子很可爱。",
+  "translation": "一只小韦格替蜥。它拍打翅膀的样子很可爱。",
   "context": "ID: mon_weigeltisaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_weigeltisaurus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1daa881159e0e6f70527b6c224cc0391",
@@ -2923,9 +2923,9 @@
  {
   "key": "f2eff4d941b2caa155e59f365d442bc1",
   "original": "A small, lean, long-legged crocodile-like animal.  It walks like a quadruped, relying only on the muscular hind limbs to sprint to catch it's prey.",
-  "translation": "一种小型、瘦削、长腿的鳄鱼状动物。它如四足兽一般行走，仅依靠强健的后腿肌肉进行短距离冲刺以捕获猎物。",
+  "translation": "一只小型、瘦削、长腿的鳄鱼状动物。它像四足动物一样行走，仅依靠强健的后腿肌肉进行短距离冲刺以捕获猎物。",
   "context": "ID: mon_hesperosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_hesperosuchus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f9e4cadbabfac2d41dad23c6301ad694",
@@ -2979,9 +2979,9 @@
  {
   "key": "fd0bf52af0d2a2d615662573e1215e69",
   "original": "A smaller Ichthyosaurus, this would be a curious animal to keep in a big fish tank in the hall, if you were the side villain of a movie.",
-  "translation": "一种较小的鱼龙，如果你是电影中的反派配角，把这样一头奇异的动物养在大厅的大鱼缸里定会引人注目。",
+  "translation": "一只小鱼龙，如果你是电影中的反派配角，把这样一头奇异的动物养在大厅的大鱼缸里肯定会引人注目。",
   "context": "ID: mon_ichthyosaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_ichthyosaurus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b51d106af6319f471fc15d3cd8e640c3",
@@ -3000,9 +3000,9 @@
  {
   "key": "6d81b6f64f6c21b980d5ffc13b2c9ae0",
   "original": "A smug, large frog-like creature.  It crawls looking for nearby prey, anything it can stuff inside its disproportionately large jaws.  Don't let its fat appearance deceive you, it's a surprisingly agile predator.",
-  "translation": "一只自鸣得意、体型庞大的蛙类生物。它爬行着搜寻附近的猎物，任何能够塞进它那不成比例的大嘴里的东西都不放过。别让它那肥胖的外表欺骗了你，它其实是一个出奇地敏捷的捕食者。",
+  "translation": "一只傲慢、体型庞大的蛙类生物。它爬行着搜寻附近的猎物，不放过任何能够塞进它那不成比例的大嘴里的东西。别让它那肥胖的外表欺骗了你，它其实是一个出奇地敏捷的捕食者。",
   "context": "ID: mon_eryops\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_eryops\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "754e8926f0768d466e6c87564bac61f9",
@@ -3525,16 +3525,16 @@
  {
   "key": "92e7efb8c2984a6357c23f38ba2fd02f",
   "original": "An alligator-looking beast, around twice larger than a crocodile.  The triangular head is adapted to catch fish, large enough to expand the definition of fish quite a bit.  The massive body is covered in some sort of hardened leather, looking like proto-scales.",
-  "translation": "一种形似鳄鱼的怪兽，体型约是普通鳄鱼的两倍大。其三角形的头部适合捕食鱼类，尺寸之大足以将“鱼类”的定义扩展许多。庞大的身躯覆盖着某种硬化皮革，看上去如同原始鳞片一般。",
+  "translation": "一只形似鳄鱼的野兽，体型约是普通鳄鱼的两倍大。其三角形的头部适合捕食鱼类，尺寸之大足以将“鱼类”的定义扩展许多。庞大的身躯覆盖着某种硬化皮革，看上去就像硬化鳞片一样。",
   "context": "ID: mon_prionosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_prionosuchus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "58dbdcb8b6d4003671cf9d8a18c164ba",
   "original": "An alligator-looking beast.  The head is triangular, prepared to catch fish.  The large amphibian body looks as if it was reinforced with the concept of crocodilians.  The animal lurks and waits for prey to get closer.",
-  "translation": "一种形似鳄鱼的怪兽。头部呈三角形，随时准备捕食鱼类。大型两栖身躯仿佛借鉴了鳄鱼的强化构造，潜伏着等待猎物靠近。",
+  "translation": "一只形似鳄鱼的野兽。头部呈三角形，随时准备捕食鱼类。大型两栖身躯仿佛借鉴了鳄鱼的构造。它潜伏着，等待猎物靠近。",
   "context": "ID: mon_platyoposaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_platyoposaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a70181646af2dd4e6761eca6d6fe6bc8",
@@ -3581,16 +3581,16 @@
  {
   "key": "f0fd305257420e93152fed26f03eada2",
   "original": "An animal that looks like certain Scottish cryptid.  It has a characteristic long neck with a small head.  The animal paddles through water as it moves its head side to side to catch fish.  The overall aspect and size are somewhat disappointing.",
-  "translation": "一种动物，形似苏格兰某种传说中的神秘生物。其特征为长颈配以小头。这生物在水中划行时，会摆动头部捕捉鱼类。整体外观和体型略显逊色。",
+  "translation": "这种动物长得像某种苏格兰的未知生物。它有着特征明显的长颈和小脑袋。在水中游动时，它会左右摆动头部捕捉鱼类。整体外观和体型都有些略显逊色。",
   "context": "ID: mon_plesiosaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_plesiosaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "370382d696eaa39b585f08f8bf26b683",
   "original": "An animal you could mistake for a dolphin if it wasn't for some key differences.  The first one are the eyes, huge, piercing eyes coverered by sclerotic rings you feel are tracking several things at once, you included.  The second are the serrated jaws, reminding you of crocodiles and the stereotypical dinosaur.  The third are the fins, with the caudal fin being vertical, and the dorsal fin being somewhat small.",
-  "translation": "这是一只动物，若非几处关键差异，你或许会误以为它是海豚。首先，它拥有一双巨大、穿透力十足的眼睛，被硬化环覆盖，让你感觉它们同时在追踪着许多事物，包括你自己。其次，是那布满锯齿的颌骨，让你联想到鳄鱼和典型的恐龙形象。最后，是它的鳍——尾鳍呈垂直状，而背鳍则略显小巧。",
+  "translation": "如果你不注意到几个关键的差异，你可能会误以为这是一种海豚。首先，拥有一双巨大、穿透力十足的眼睛，被巩膜环覆盖，让你感觉它同时在看着许多东西，包括你自己。其次，它的颌骨呈锯齿状，让你想起了鳄鱼和典型的恐龙形象。最后，是它的鳍，尾鳍是垂直的，而背鳍则相对较小。",
   "context": "ID: mon_ichthyosaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_ichthyosaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "bd56497fec2588674e1add7e485f5da0",
@@ -4483,7 +4483,7 @@
   "key": "50a72448d9889a251b6263b2cf912d83",
   "original": "Expands upon the Touhou Professions mod.  Coregame balance not guaranteed.",
   "translation": "东方职业模组的扩展。不保证平衡性。\n需要在“场景”里选择东方职业（扩展）\n建议使用 Chibi_Ultica 或 MSXotto+ 贴图包以显示头发（当前仅支持秦心、妹红、咲夜、铃仙和妖梦）",
-  "context": "ID: Touhou_expansion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→Touhou_expansion\n",
+  "context": "ID: Touhou_expansion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→Touhou_expansion\n",
   "stage": 3
  },
  {
@@ -7922,7 +7922,7 @@
   "original": "This curious animal looks like a crocodile, but it's leaner, bipedal and it can run.  It also has two functional, if short, arms to hold prey while it takes chunks from it.",
   "translation": "这种奇特的动物形似鳄鱼，但更为瘦削，能以双足奔跑，而且拥有两只虽短小却功能齐全的手臂，用以在撕咬猎物时将其牢牢抓住。",
   "context": "ID: mon_carnufex\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_carnufex\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "0ef43c41b74c534624a0cc7a3d678218",
@@ -7991,7 +7991,7 @@
   "key": "702df6c4cd1aeb9cc2dc59807f6c3acb",
   "original": "Touhou Expansion",
   "translation": "东方职业模组扩展包",
-  "context": "ID: Touhou_expansion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→Touhou_expansion\n",
+  "context": "ID: Touhou_expansion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→Touhou_expansion\n",
   "stage": 3
  },
  {
@@ -8180,7 +8180,7 @@
   "original": "What's cuter than tiny crocodiles? Tiny crocodiles that can run and take chunks of your ankles.",
   "translation": "还有什么比小鳄鱼更可爱的吗？会奔跑并啃食你脚踝的小鳄鱼。",
   "context": "ID: mon_carnufex_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_carnufex_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "966d953817980d045a3538d3b8bbb468",
@@ -8841,9 +8841,9 @@
  {
   "key": "838214fdb59da42f47b022af42f428ff",
   "original": "anatosuchus",
-  "translation": "雁颌鳄",
+  "translation": "鸭鳄",
   "context": "ID: mon_anatosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_anatosuchus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "383dd0abc47d068cdd5e0e1d90c73f37",
@@ -9032,7 +9032,7 @@
   "original": "arthropleura egg",
   "translation": "巨虫卵",
   "context": "ID: egg_arthropleura\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_arthropleura\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a77dc9f39f6901cbe70982ae441d63d3",
@@ -9079,9 +9079,9 @@
  {
   "key": "30d4d06fd99fbc3a7942ba183e03d69e",
   "original": "baby anatosuchus",
-  "translation": "幼年鸭嘴鳄",
+  "translation": "幼年 鸭鳄",
   "context": "ID: mon_anatosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_anatosuchus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "08c95ee23ba9476b91c9ed046d1485f5",
@@ -9100,9 +9100,9 @@
  {
   "key": "48ee2eaf66dbc1d5db0da2b38fb62353",
   "original": "baby carnufex",
-  "translation": "婴儿卡努弗克斯",
+  "translation": "幼年 屠夫鳄",
   "context": "ID: mon_carnufex_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_carnufex_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b6afa63b6c484411a29867556d07d65c",
@@ -9163,9 +9163,9 @@
  {
   "key": "1ef9caedac8955c1f73f3275131b1ae9",
   "original": "baby eryops",
-  "translation": "幼年艾利欧普斯",
+  "translation": "幼年 引螈",
   "context": "ID: mon_eryops_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_eryops_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "710f8f025fcf25d565fd801776c8f933",
@@ -9191,9 +9191,9 @@
  {
   "key": "3b85656e12be226eaa17e91feef7c2c8",
   "original": "baby hesperosuchus",
-  "translation": "幼年赫斯珀洛鳄龙",
+  "translation": "幼年 黄昏鳄",
   "context": "ID: mon_hesperosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_hesperosuchus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a00bed3984767eecd921e529c0175579",
@@ -9212,9 +9212,9 @@
  {
   "key": "7d80dcfd8c28eda5ddf227581fff22b2",
   "original": "baby ichthyosaurus",
-  "translation": "婴儿鱼龙",
+  "translation": "幼年 鱼龙",
   "context": "ID: mon_ichthyosaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_ichthyosaurus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ac6a1f5d577ac7a311e18a07396b287c",
@@ -9275,30 +9275,30 @@
  {
   "key": "b0d8b688cf8e3bf23866cb7033c757f4",
   "original": "baby pederpes",
-  "translation": "婴儿佩德佩斯",
+  "translation": "幼年 彼得足螈",
   "context": "ID: mon_pederpes_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pederpes_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "c3ac57fa029b6319311b3f4308f99a8b",
   "original": "baby platyoposaurus",
-  "translation": "婴儿扁足龙",
+  "translation": "幼年 平面螈",
   "context": "ID: mon_platyoposaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_platyoposaurus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "39a909797ab73f5110904c5a798aea7c",
   "original": "baby plesiosaurus",
-  "translation": "婴儿蛇颈龙",
+  "translation": "幼年 蛇颈龙",
   "context": "ID: mon_plesiosaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_plesiosaurus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "20b667e3147024573460e364988a4d3c",
   "original": "baby prionosuchus",
-  "translation": "幼年普里奥索鳄",
+  "translation": "幼年 锯齿螈",
   "context": "ID: mon_prionosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_prionosuchus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "65af86ba58451e078f01d2a736358797",
@@ -9310,9 +9310,9 @@
  {
   "key": "fb4b8ce2a1acdb9180723fc49a752136",
   "original": "baby scutosaurus",
-  "translation": "幼年盾甲龙",
+  "translation": "幼年 盾甲龙",
   "context": "ID: mon_scutosaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_scutosaurus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e93403f07068456e85d709583b42e784",
@@ -9324,16 +9324,16 @@
  {
   "key": "f0ea99e578c0f6540738beac57776508",
   "original": "baby smilosuchus",
-  "translation": "婴儿斯迈洛鳄",
+  "translation": "幼年 凿齿鳄",
   "context": "ID: mon_smilosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_smilosuchus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ef9620c506ab3f90d3c8101560550b0c",
   "original": "baby weigeltisaurus",
-  "translation": "婴儿魏格特蜥龙",
+  "translation": "幼年 韦格替蜥",
   "context": "ID: mon_weigeltisaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_weigeltisaurus_baby\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "2933e47b2dddc4ccab9739d177239ac1",
@@ -9499,16 +9499,16 @@
  {
   "key": "3affb995cf4f0ee28f20242e670ddaf4",
   "original": "carnufex",
-  "translation": "屠戮鳄",
+  "translation": "屠夫鳄",
   "context": "ID: mon_carnufex\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_carnufex\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "746724e06d1929e217d3ea400f60badc",
   "original": "carnufex egg",
-  "translation": "屠戮鳄蛋",
+  "translation": "屠夫鳄蛋",
   "context": "ID: egg_carnufex\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_carnufex\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "53457eba1fdf0e879e6f75e897fd4720",
@@ -9662,7 +9662,7 @@
   "original": "cotylorhynchus egg",
   "translation": "杯鼻龙蛋",
   "context": "ID: egg_cotylorhynchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_cotylorhynchus\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e4041e9a572925c3d0c7e429154274c5",
@@ -9793,9 +9793,9 @@
  {
   "key": "07a7c668a6bf00277602515c62baaacd",
   "original": "dimetrodon egg",
-  "translation": "剑龙蛋",
+  "translation": "异齿龙蛋",
   "context": "ID: egg_dimetrodon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_dimetrodon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "41e5f5dafe75e416587f844093011aa4",
@@ -9844,7 +9844,7 @@
   "original": "dodo egg",
   "translation": "渡渡鸟蛋",
   "context": "ID: egg_dodo\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_dodo\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a04908baaf5d514534ec316258b180c5",
@@ -9877,9 +9877,9 @@
  {
   "key": "be693548dd368fa1e870e4a6f15bd89b",
   "original": "ectopistes egg",
-  "translation": "外部鸟蛋",
+  "translation": "旅鸽蛋",
   "context": "ID: egg_ectopistes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_ectopistes\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "127a7868e3b148ca3eae8f23efcb3def",
@@ -9905,16 +9905,16 @@
  {
   "key": "2cd0c6830890b4b34011b6bfcfd56a3e",
   "original": "eryops",
-  "translation": "埃里奥普斯",
+  "translation": "引螈",
   "context": "ID: mon_eryops\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_eryops\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d614f41c151ae8e963842c7a5fa61a17",
   "original": "eryops egg",
-  "translation": "埃里奥普斯蛋",
+  "translation": "引螈卵",
   "context": "ID: egg_eryops\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_eryops\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "335104be7451ca2a6852649a71a81160",
@@ -9933,16 +9933,16 @@
  {
   "key": "69d626d801167da038650872a72c646f",
   "original": "eurypterid egg",
-  "translation": "欧氏鲎卵",
+  "translation": "广翅鲎卵",
   "context": "ID: egg_eurypterid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_eurypterid\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "c8026320306d9ab451997b91ae64a6ed",
   "original": "eurypterid eggs",
-  "translation": "欧律珀尔德卵",
+  "translation": "广翅鲎卵",
   "context": "ID: egg_eurypterid_small\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_eurypterid_small\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "c7574605bffe080065af9cd0400a9cfd",
@@ -10234,16 +10234,16 @@
  {
   "key": "c5aa3c83ea37226258524136d1ed90f5",
   "original": "hesperosuchus",
-  "translation": "赫斯珀洛鳄",
+  "translation": "黄昏鳄",
   "context": "ID: mon_hesperosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_hesperosuchus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b6a6a5de32dde749ebe9d6bbb8c7dbaa",
   "original": "hesperosuchus egg",
-  "translation": "赫斯珀洛鳄蛋",
+  "translation": "黄昏鳄卵",
   "context": "ID: egg_hesperosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_hesperosuchus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "0f0d1f812c6e24822c676caac5d7df11",
@@ -10297,23 +10297,23 @@
  {
   "key": "16ad5569fbc2b85aaa1d6feb717b87d7",
   "original": "icadyptes",
-  "translation": "伊卡迪普特斯",
+  "translation": "伊卡企鹅",
   "context": "ID: mon_icadyptes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_bird.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_icadyptes\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "417988fe1f3d1b37d765257504354f1d",
   "original": "icadyptes chick",
-  "translation": "伊卡迪普特斯雏鸟",
+  "translation": "伊卡企鹅幼鸟",
   "context": "ID: mon_icadyptes_chick\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_bird.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_icadyptes_chick\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "fe51fe51dcc15c68d155dcf5f5a95978",
   "original": "icadyptes egg",
-  "translation": "伊卡迪普特斯蛋",
+  "translation": "伊卡企鹅蛋",
   "context": "ID: egg_icadyptes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_icadyptes\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f114902aa40da5562c1d757728289d73",
@@ -10327,7 +10327,7 @@
   "original": "ichthyosaurus",
   "translation": "鱼龙",
   "context": "ID: mon_ichthyosaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_ichthyosaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "67dc2affa744f0e649201dd7d912f820",
@@ -10339,30 +10339,30 @@
  {
   "key": "20c9358acf480dd48a54e999e2296b11",
   "original": "inostrancevia",
-  "translation": "异国鳄属",
+  "translation": "锐齿兽",
   "context": "ID: mon_inostrancevia\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_inostrancevia\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "30fb5f39814ebaf04253e22e0ee669e4",
   "original": "inostrancevia egg",
-  "translation": "异龙蛋",
+  "translation": "锐齿兽蛋",
   "context": "ID: egg_inostrancevia\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_inostrancevia\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "af31d0d452a8e839ae598aadfed872d7",
   "original": "inostrancevia puppies",
-  "translation": "异龙幼崽",
+  "translation": "锐齿兽幼崽",
   "context": "ID: mon_inostrancevia_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_inostrancevia_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e00905e8d1d88bfa1b00737b1ebce60d",
   "original": "inostrancevia puppy",
-  "translation": "异兽幼崽",
+  "translation": "锐齿兽幼崽",
   "context": "ID: mon_inostrancevia_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_inostrancevia_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "87af2fb8dac736325050c8af3947889e",
@@ -10703,9 +10703,9 @@
  {
   "key": "221267315b5e8f88abe771a3db3b0e78",
   "original": "lystrosaurus egg",
-  "translation": "棱齿龙蛋",
+  "translation": "水龙兽蛋",
   "context": "ID: egg_lystrosaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_lystrosaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d6a5265f91e345ae2bc63f02f359cf38",
@@ -10745,9 +10745,9 @@
  {
   "key": "91f3f8504ff6a5305fb58f6bb5d5fa46",
   "original": "meganeura egg",
-  "translation": "巨型蜻蜓卵",
+  "translation": "巨脉蜻蜓卵",
   "context": "ID: egg_meganeura\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_meganeura\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "13ed1d98a4774d14e0a0398143450b58",
@@ -10828,23 +10828,23 @@
  {
   "key": "a7cc11decf703bbefa04be14514e469e",
   "original": "moa",
-  "translation": "摩亚",
+  "translation": "恐鸟",
   "context": "ID: mon_moa\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_bird.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_moa\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "969db50a77e2d0e18d14ba9a96c3c04b",
   "original": "moa chick",
-  "translation": "小雏驼鸟",
+  "translation": "恐鸟雏鸟",
   "context": "ID: mon_moa_chick\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_bird.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_moa_chick\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b9d700f4b5eab2fd6cad2a707b6e2df5",
   "original": "moa egg",
-  "translation": "摩亚蛋",
+  "translation": "恐鸟蛋",
   "context": "ID: egg_moa\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_moa\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "037463cd131d8f6982fd0961339d01b2",
@@ -10872,7 +10872,7 @@
   "original": "moschorhinus",
   "translation": "麝喙兽",
   "context": "ID: mon_moschorhinus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_moschorhinus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2ad27f65052244bcadf45e308a4a77d9",
@@ -10884,16 +10884,16 @@
  {
   "key": "cb0232a03a7b9bb81884dbeec9f091e6",
   "original": "moschorhinus puppies",
-  "translation": "moschorhinus幼犬",
+  "translation": "麝喙兽幼崽",
   "context": "ID: mon_moschorhinus_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_moschorhinus_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "5d16da80f099a5bee97b8e69829f6293",
   "original": "moschorhinus puppy",
-  "translation": "麝喙幼兽",
+  "translation": "麝喙兽幼崽",
   "context": "ID: mon_moschorhinus_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_moschorhinus_pup\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d070717520eb0f9f94e3e5965d6c2af5",
@@ -10954,23 +10954,23 @@
  {
   "key": "24bb7d0971f3aea40c93e1788ae88e3f",
   "original": "nochnitsa",
-  "translation": "夜魔",
+  "translation": "夜妖丽齿兽",
   "context": "ID: mon_nochnitsa\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_nochnitsa\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f089ce333a6ae283b5baa8fc806d7b1e",
   "original": "nochnitsa puppies",
-  "translation": "夜巫幼崽",
+  "translation": "夜妖丽齿兽幼崽",
   "context": "ID: mon_nochnitsa_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_nochnitsa_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "9e1e24459b263e72d7f0661bd048f084",
   "original": "nochnitsa puppy",
-  "translation": "夜巫幼崽",
+  "translation": "夜妖丽齿兽幼崽",
   "context": "ID: mon_nochnitsa_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_nochnitsa_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "0d4c4f4adc2661dc7d54656c6a2ceb4d",
@@ -11185,9 +11185,9 @@
  {
   "key": "8014967202d6787f3b8694c38786d614",
   "original": "pederpes",
-  "translation": "石螈",
+  "translation": "彼得足螈",
   "context": "ID: mon_pederpes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pederpes\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7e9c2af56a1ccf5c5156a57f047cc9db",
@@ -11199,9 +11199,9 @@
  {
   "key": "38236ef8af7167f1d679ba484f5c5426",
   "original": "platyoposaurus",
-  "translation": "platyoposaurus（板颌龙）",
+  "translation": "平面螈",
   "context": "ID: mon_platyoposaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_platyoposaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "c1194433984426cdff50608e9da4fe60",
@@ -11215,7 +11215,7 @@
   "original": "plesiosaurus",
   "translation": "蛇颈龙",
   "context": "ID: mon_plesiosaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_plesiosaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "811ae2552998ed6e829bef601bd32397",
@@ -11304,9 +11304,9 @@
  {
   "key": "52a9db5e37d876d70dcb4d865552f704",
   "original": "prionosuchus",
-  "translation": "普里奥努斯鳄",
+  "translation": "锯齿螈",
   "context": "ID: mon_prionosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_prionosuchus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "495f2687fb94c5046181f1abc20cfd71",
@@ -11318,30 +11318,30 @@
  {
   "key": "39666aa064cc5005d5e352313ce403d4",
   "original": "pristerognathus",
-  "translation": "普里斯特奥纳特斯",
+  "translation": "锯颌兽",
   "context": "ID: mon_pristerognathus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pristerognathus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "086dce2e38c35f6f8621f941e4ce3847",
   "original": "pristerognathus egg",
-  "translation": "普里斯特奥纳特斯蛋",
+  "translation": "锯颚兽蛋",
   "context": "ID: egg_pristerognathus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_pristerognathus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "dbfaafe5def6757620cec4864cfb92c1",
   "original": "pristerognathus puppies",
-  "translation": "普里斯托颚龙幼崽",
+  "translation": "锯颌兽幼崽",
   "context": "ID: mon_pristerognathus_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pristerognathus_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "8c1b5e5b67b781ffa66a00eed33cfe23",
   "original": "pristerognathus puppy",
-  "translation": "普里斯托戈纳图斯幼犬",
+  "translation": "锯颚兽幼崽",
   "context": "ID: mon_pristerognathus_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pristerognathus_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "73a2818c0a06f757abbdb7587afb1de0",
@@ -11502,7 +11502,7 @@
   "original": "scutosaurus",
   "translation": "盾甲龙",
   "context": "ID: mon_scutosaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_scutosaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f578d5ca4177641f53abdeecd846eaa7",
@@ -11619,9 +11619,9 @@
  {
   "key": "317b407b0f6748052f7b7cea3f0923f8",
   "original": "smilosuchus",
-  "translation": "微笑鳄（Smilosuchus）",
+  "translation": "凿齿鳄",
   "context": "ID: mon_smilosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_smilosuchus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a1c8e2ddc7c807f2673cd4c7d55f13b0",
@@ -12095,9 +12095,9 @@
  {
   "key": "1706d36ac34b86918b1b97547c073b46",
   "original": "viatkogorgon",
-  "translation": "通过科戈贡",
+  "translation": "维特克丽齿兽",
   "context": "ID: mon_viatkogorgon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_viatkogorgon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "13490268d10381222700e3bf1ba82094",
@@ -12109,23 +12109,23 @@
  {
   "key": "bc21702bbf0e91e94d0665cfb8f6065f",
   "original": "viatkogorgon puppies",
-  "translation": "维尔托戈龙幼崽",
+  "translation": "维特克丽齿兽幼崽",
   "context": "ID: mon_viatkogorgon_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_viatkogorgon_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "04d2cb83ee62f4a7b13301580869daca",
   "original": "viatkogorgon puppy",
-  "translation": "维亚特科戈尔贡幼犬",
+  "translation": "维特克丽齿兽幼崽",
   "context": "ID: mon_viatkogorgon_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_viatkogorgon_pup\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "40367085ef1834dd9645aa14d6d3a9c4",
   "original": "weigeltisaurus",
-  "translation": "魏格特龙属",
+  "translation": "韦格替蜥",
   "context": "ID: mon_weigeltisaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_weigeltisaurus\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "16465d3802182215e2d42d4063709dda",
